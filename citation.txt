@@ -1,0 +1,6 @@
+@article{REPO-136,
+    author = "Joze, Hamid Reza Vaezi and Shaban, Amirreza and Iuzzolino, Michael L. and Koishida, Kazuhito",
+    journal = "Computer Vision and Pattern Recognition",
+    title = "{MMTM: Multimodal Transfer Module for CNN Fusion}",
+    year = "2020"
+}
